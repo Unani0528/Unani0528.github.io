@@ -24,12 +24,12 @@ repository: "Portfolio/Unani0528.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "profile.jpg"
   name: "Jeong Yun Hwan"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: ""
   location: "South Korea"
-  employer: "Red Brick University"
+  employer: "Daegu Universityᆲ"
   uri: # URL
   email: "ok0528ok0@gmail.com"
 
